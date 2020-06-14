@@ -16,7 +16,7 @@ const Room = () => {
                 ];
 
             case 'remove':
-                return state.filter((_,index)=>index != action.index);
+                return state.filter((_,index)=>index !== action.index);
 
 
             case 'clear':
