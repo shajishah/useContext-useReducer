@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f15943e-4292-4be6-858c-2e492cf4db89" name="Default Changelist" comment="" />
+    <list default="true" id="1f15943e-4292-4be6-858c-2e492cf4db89" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Room.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Room.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592134284577</updated>
-      <workItem from="1592134286398" duration="7083000" />
+      <workItem from="1592134286398" duration="7464000" />
     </task>
     <servers />
   </component>
